@@ -1,0 +1,202 @@
+[
+    {
+        "question": "What is the shape of the world?",
+        "choice": [
+            "Circle",
+            "Square",
+            "Oval",
+            "Triangle"
+        ],
+        "answer": "Oval"
+    },
+    {
+        "question": "How many provinces are there in Thailand?",
+        "choice": [
+            "76",
+            "75",
+            "77",
+            "74"
+        ],
+        "answer": "77"
+    },
+    {
+        "question": "What is the largest ocean in the world?",
+        "choice": [
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Arctic Ocean",
+            "Pacific Ocean"
+        ],
+        "answer": "Pacific Ocean"
+    },
+    {
+        "question": "What is the largest country in the world by area?",
+        "choice": [
+            "China",
+            "India",
+            "Russia",
+            "USA"
+        ],
+        "answer": "Russia"
+    },
+    {
+        "question": "Who is currently one of the richest people in the world?",
+        "choice": [
+            "Elon Musk",
+            "Warren Buffett",
+            "Me",
+            "You"
+        ],
+        "answer": "Elon Musk"
+    },
+    {
+        "question": "What does RAM stand for?",
+        "choice": [
+            "Random Access Memory",
+            "Read only Memory",
+            "Application Module",
+            "Remote Access Machine"
+        ],
+        "answer": "Random Access Memory"
+    },
+    {
+        "question": "Which component is often referred to as the 'brain' of the computer?",
+        "choice": [
+            "Motherboard",
+            "GPU",
+            "RAM",
+            "CPU"
+        ],
+        "answer": "CPU"
+    },
+    {
+        "question": "One Byte is equal to how many Bits?",
+        "choice": [
+            "4 Bits",
+            "8 Bits",
+            "6 Bits",
+            "12 Bits"
+        ],
+        "answer": "8 Bits"
+    },
+    {
+        "question": "Which type of memory retains its data even when the power is turned off?",
+        "choice": [
+            "RAM",
+            "Cache Memory",
+            "ROM",
+            "Virtual Memory"
+        ],
+        "answer": "ROM"
+    },
+    {
+        "question": "What does the acronym HTML stand for?",
+        "choice": [
+            "Hyper Text Markup Language",
+            "High Tech Modern Link",
+            "Home Tool Management Language",
+            "Hyperlink Text Machine Language"
+        ],
+        "answer": "Hyper Text Markup Language"
+    },
+    {
+        "question": "Which device converts digital signals to analog signals for transmission over a telephone line?",
+        "choice": [
+            "Router",
+            "Modem",
+            "Switch",
+            "Hub"
+        ],
+        "answer": "Modem"
+    },
+    {
+        "question": "What is the primary function of an Operating System (OS)?",
+        "choice": [
+            "Processing graphics",
+            "Managing hardware and software resources",
+            "Long-term data storage",
+            "Increasing internet speed"
+        ],
+        "answer": "Managing hardware and software resources"
+    },
+    {
+        "question": "Files with the extension .pdf are typically opened by what type of program?",
+        "choice": [
+            "Spreadsheet Software",
+            "Word Processor",
+            "Web Browser",
+            "Adobe Reader or document reader"
+        ],
+        "answer": "Adobe Reader or document reader"
+    },
+    {
+        "question": "What is the unit of measurement for the speed of a CPU?",
+        "choice": [
+            "Megabyte (MB)",
+            "Hertz (Hz)",
+            "Dots Per Inch (DPI)",
+            "Pixel"
+        ],
+        "answer": "Hertz (Hz)"
+    },
+    {
+        "question": "Which country is nicknamed 'The Land of the Rising Sun'?",
+        "choice": [
+            "South Korea",
+            "China",
+            "Japan",
+            "Vietnam"
+        ],
+        "answer": "Japan"
+    },
+    {
+        "question": "What is the longest river in the world?",
+        "choice": [
+            "Nile River",
+            "Amazon River",
+            "Yangtze River",
+            "Mississippi River"
+        ],
+        "answer": "Amazon River"
+    },
+    {
+        "question": "Which continent is the smallest in terms of land area?",
+        "choice": [
+            "Europe",
+            "Antarctica",
+            "Australia",
+            "South America"
+        ],
+        "answer": "Australia"
+    },
+    {
+        "question": "Who is the scientist who discovered the law of universal gravitation?",
+        "choice": [
+            "Albert Einstein",
+            "Galileo Galilei",
+            "Isaac Newton",
+            "Charles Darwin"
+        ],
+        "answer": "Isaac Newton"
+    },
+    {
+        "question": "In which country are the Pyramids of Giza located?",
+        "choice": [
+            "Egypt",
+            "Greece",
+            "Mexico",
+            "Peru"
+        ],
+        "answer": "Egypt"
+    },
+    {
+        "question": "Which flying animal is a mammal?",
+        "choice": [
+            "Dolphin",
+            "Bat",
+            "Whale",
+            "Penguin"
+        ],
+        "answer": "Bat"
+    }
+]
